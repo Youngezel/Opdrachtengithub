@@ -7,7 +7,7 @@ namespace testvoorgit2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("je zus op een driewiller");
+            Console.WriteLine("je zus op een tendum");
         }
     }
 }
