@@ -8,6 +8,7 @@ namespace testvoorgit2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("je zus op een tendum");
+            Console.WriteLine("dit is de nieuwe aanpassing");
         }
     }
 }
